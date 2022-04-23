@@ -1,0 +1,501 @@
+Attrition_Flag,Gender,Education_Level,Income_Category,Card_Category
+Existing Customer,F,Unknown,Unknown,Blue
+Attrited Customer,F,High School,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Gold
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Unknown,$40K - $60K,Blue
+Existing Customer,M,Graduate,Less than $40K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,M,Post-Graduate,$60K - $80K,Blue
+Attrited Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,F,High School,Unknown,Silver
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Unknown,$120K +,Blue
+Existing Customer,M,Unknown,$120K +,Blue
+Existing Customer,M,Post-Graduate,$120K +,Blue
+Attrited Customer,F,College,Unknown,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,F,College,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,F,High School,Less than $40K,Silver
+Attrited Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,M,College,$120K +,Gold
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Attrited Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,M,High School,$40K - $60K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,High School,$120K +,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Attrited Customer,F,Unknown,$40K - $60K,Blue
+Attrited Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Uneducated,$40K - $60K,Blue
+Attrited Customer,M,Unknown,$40K - $60K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Uneducated,$40K - $60K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Graduate,Unknown,Silver
+Attrited Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Attrited Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Attrited Customer,F,High School,$40K - $60K,Blue
+Attrited Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Uneducated,$120K +,Silver
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,F,High School,Unknown,Blue
+Attrited Customer,M,High School,$120K +,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,Graduate,$120K +,Silver
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Attrited Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,M,High School,Unknown,Blue
+Existing Customer,M,Doctorate,$80K - $120K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,M,Unknown,$120K +,Blue
+Existing Customer,F,High School,Unknown,Blue
+Attrited Customer,F,Graduate,Less than $40K,Gold
+Existing Customer,F,Doctorate,$40K - $60K,Blue
+Attrited Customer,F,Uneducated,Unknown,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,High School,$120K +,Blue
+Existing Customer,F,Unknown,$40K - $60K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Attrited Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,M,Uneducated,Less than $40K,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Uneducated,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Uneducated,Unknown,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Uneducated,Unknown,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,College,$80K - $120K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,College,$120K +,Blue
+Attrited Customer,M,High School,$80K - $120K,Blue
+Existing Customer,F,Post-Graduate,$40K - $60K,Blue
+Existing Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,F,Uneducated,$40K - $60K,Blue
+Existing Customer,M,College,$80K - $120K,Blue
+Existing Customer,F,Doctorate,Unknown,Blue
+Existing Customer,M,Graduate,Less than $40K,Blue
+Attrited Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Doctorate,Unknown,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Attrited Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Unknown,$120K +,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Uneducated,$60K - $80K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Uneducated,$40K - $60K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,Doctorate,$60K - $80K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Unknown,$40K - $60K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Doctorate,$80K - $120K,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,M,Doctorate,$60K - $80K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Attrited Customer,F,Post-Graduate,Less than $40K,Blue
+Attrited Customer,M,College,$120K +,Blue
+Attrited Customer,M,Graduate,$120K +,Silver
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,M,Unknown,$120K +,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Uneducated,Less than $40K,Blue
+Existing Customer,M,Uneducated,Less than $40K,Blue
+Existing Customer,M,Graduate,Less than $40K,Blue
+Existing Customer,M,College,$60K - $80K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Silver
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Doctorate,$40K - $60K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Attrited Customer,M,Unknown,$120K +,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,M,High School,$60K - $80K,Silver
+Existing Customer,M,Doctorate,$80K - $120K,Blue
+Attrited Customer,M,Uneducated,$80K - $120K,Blue
+Attrited Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Attrited Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Attrited Customer,F,High School,$40K - $60K,Blue
+Existing Customer,M,Doctorate,$80K - $120K,Blue
+Attrited Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,M,College,$120K +,Blue
+Existing Customer,M,College,$120K +,Blue
+Attrited Customer,M,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Attrited Customer,M,High School,$80K - $120K,Silver
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Uneducated,$120K +,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Gold
+Existing Customer,F,Post-Graduate,Unknown,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Uneducated,$60K - $80K,Blue
+Existing Customer,M,Unknown,$40K - $60K,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Post-Graduate,$120K +,Blue
+Attrited Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Post-Graduate,$60K - $80K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,Uneducated,$40K - $60K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$120K +,Silver
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Existing Customer,M,Doctorate,$60K - $80K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,High School,$80K - $120K,Silver
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,M,Unknown,$80K - $120K,Silver
+Existing Customer,M,High School,$120K +,Blue
+Existing Customer,F,Unknown,$40K - $60K,Blue
+Existing Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,M,Doctorate,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Silver
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,Uneducated,$120K +,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Existing Customer,F,College,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,High School,Less than $40K,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Blue
+Existing Customer,M,Uneducated,$60K - $80K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Doctorate,Unknown,Blue
+Existing Customer,M,Doctorate,$60K - $80K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Attrited Customer,F,College,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Silver
+Existing Customer,M,College,$80K - $120K,Blue
+Existing Customer,M,Post-Graduate,$60K - $80K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,M,Uneducated,$40K - $60K,Blue
+Existing Customer,M,Doctorate,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Uneducated,$80K - $120K,Blue
+Attrited Customer,M,Doctorate,$80K - $120K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,F,High School,Unknown,Blue
+Existing Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Attrited Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Existing Customer,F,Uneducated,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,Doctorate,$40K - $60K,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Attrited Customer,M,Doctorate,$60K - $80K,Blue
+Attrited Customer,M,College,$80K - $120K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Silver
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Attrited Customer,M,Doctorate,$120K +,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Attrited Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Attrited Customer,M,Post-Graduate,$40K - $60K,Platinum
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Blue
+Existing Customer,M,Post-Graduate,$80K - $120K,Blue
+Attrited Customer,M,High School,$60K - $80K,Blue
+Attrited Customer,F,Doctorate,Unknown,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Doctorate,Less than $40K,Blue
+Attrited Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Unknown,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,College,Less than $40K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,F,College,Less than $40K,Blue
+Existing Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,M,Uneducated,$120K +,Blue
+Existing Customer,M,Post-Graduate,$40K - $60K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,F,High School,Unknown,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,F,Doctorate,$40K - $60K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,M,High School,$120K +,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,College,$60K - $80K,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,F,Uneducated,Unknown,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Attrited Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,M,Post-Graduate,$60K - $80K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Uneducated,$60K - $80K,Blue
+Attrited Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Doctorate,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,F,High School,Less than $40K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,F,Graduate,$40K - $60K,Blue
+Existing Customer,M,College,Unknown,Blue
+Existing Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,College,$40K - $60K,Blue
+Existing Customer,F,Post-Graduate,$40K - $60K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,M,Post-Graduate,$40K - $60K,Silver
+Existing Customer,F,High School,Less than $40K,Blue
+Attrited Customer,F,Doctorate,Less than $40K,Blue
+Existing Customer,F,College,Unknown,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,High School,$120K +,Blue
+Existing Customer,M,High School,$60K - $80K,Blue
+Existing Customer,F,Graduate,Unknown,Blue
+Existing Customer,M,High School,$40K - $60K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,M,College,$80K - $120K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,Uneducated,$40K - $60K,Blue
+Existing Customer,M,Unknown,$40K - $60K,Blue
+Existing Customer,F,Post-Graduate,Unknown,Blue
+Existing Customer,M,Unknown,Less than $40K,Blue
+Existing Customer,M,Graduate,$60K - $80K,Blue
+Existing Customer,M,Doctorate,$60K - $80K,Blue
+Existing Customer,M,College,$120K +,Blue
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Existing Customer,F,Graduate,Unknown,Silver
+Existing Customer,F,High School,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,M,Unknown,$60K - $80K,Blue
+Existing Customer,M,Uneducated,Less than $40K,Blue
+Attrited Customer,M,Unknown,$40K - $60K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$80K - $120K,Silver
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,F,High School,Unknown,Blue
+Existing Customer,M,Uneducated,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,F,Post-Graduate,Less than $40K,Blue
+Existing Customer,M,Graduate,$120K +,Blue
+Existing Customer,M,College,$60K - $80K,Gold
+Existing Customer,M,Graduate,$80K - $120K,Silver
+Existing Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,High School,$40K - $60K,Silver
+Existing Customer,M,High School,$120K +,Blue
+Existing Customer,M,Post-Graduate,$60K - $80K,Blue
+Existing Customer,M,College,$60K - $80K,Blue
+Attrited Customer,M,Graduate,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,M,Graduate,Less than $40K,Blue
+Attrited Customer,F,College,Unknown,Silver
+Attrited Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
+Attrited Customer,F,Doctorate,Less than $40K,Gold
+Existing Customer,M,High School,Less than $40K,Blue
+Existing Customer,F,Uneducated,Less than $40K,Blue
+Attrited Customer,M,College,$40K - $60K,Blue
+Attrited Customer,F,Graduate,Less than $40K,Blue
+Attrited Customer,M,Graduate,$120K +,Blue
+Existing Customer,F,College,Less than $40K,Blue
+Attrited Customer,F,High School,$40K - $60K,Blue
+Attrited Customer,F,Post-Graduate,Less than $40K,Blue
+Attrited Customer,M,Graduate,$40K - $60K,Blue
+Existing Customer,M,Post-Graduate,$60K - $80K,Blue
+Existing Customer,M,Uneducated,$60K - $80K,Blue
+Existing Customer,M,High School,$80K - $120K,Blue
+Existing Customer,F,Graduate,Less than $40K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,M,Uneducated,$120K +,Blue
+Existing Customer,F,High School,$40K - $60K,Blue
+Existing Customer,M,Unknown,$80K - $120K,Blue
+Existing Customer,F,Uneducated,Unknown,Blue
+Existing Customer,F,Unknown,Less than $40K,Blue
