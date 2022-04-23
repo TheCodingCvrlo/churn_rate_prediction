@@ -1,2 +1,2 @@
 # Machine Learning Project
-Main folder for all of my ml projects
+Main repo for all of my ml projects
